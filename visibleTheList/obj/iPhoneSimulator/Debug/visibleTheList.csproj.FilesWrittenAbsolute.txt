@@ -1,0 +1,9 @@
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/bin/iPhoneSimulator/Debug/visibleTheList.pdb
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/bin/iPhoneSimulator/Debug/visibleTheList.exe
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/obj/iPhoneSimulator/Debug/visibleTheList.exe
+/Users/blakemorgan/Projects/visibleTheList/visibleTheList/obj/iPhoneSimulator/Debug/visibleTheList.pdb
